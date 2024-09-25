@@ -21,4 +21,3 @@ Hey there! 👋 I'm a UI/UX Designer & Front-End Developer from Bangalore, India
 ---
 [![](https://visitcount.itsvg.in/api?id=dineshann&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
