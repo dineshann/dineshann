@@ -2,23 +2,23 @@
 Hey there! 👋 I'm a founder for [amortree Tech Pvt. Ltd.](https://amortree.com/) and UI/UX Designer & Front-End Developer from Bangalore, India.<br>With experience in HTML5, CSS, Sass, and jQuery, I love bringing ideas to life with clean, user-friendly designs. I started out as a Web Designer and have worked on all kinds of cool projects since. Now, as a Front-End Developer, I’m passionate about coding up new experiences and always looking for ways to make the web more exciting.<br><br>Let’s build something awesome together! 🚀
 
 
-# Amortree Tech
+# amortree Tech
 
-Welcome to **Amortree Tech**’s official repository! We are a technology-driven company providing innovative solutions to businesses looking to grow and thrive in today’s fast-paced digital landscape. Our expertise lies in web development, mobile applications, digital marketing, and cloud solutions, aimed at empowering businesses with cutting-edge technology.
+Welcome to **amortree Tech**! We are a technology-driven company providing innovative solutions to businesses looking to grow and thrive in today’s fast-paced digital landscape. Our expertise lies in web development, mobile applications, digital marketing, and cloud solutions, aimed at empowering businesses with cutting-edge technology.
 
-## About Amortree Tech
+## About amortree Tech
 
-At Amortree Tech, we believe in crafting tailor-made solutions that fit your business needs. Our team of experts collaborates closely with clients to deliver custom software, scalable applications, and digital strategies that drive success.
+At amortree Tech, we believe in crafting tailor-made solutions that fit your business needs. Our team of experts collaborates closely with clients to deliver custom software, scalable applications, and digital strategies that drive success.
 
-### Key Services:
+### amortree Tech Key Services:
 - **Web Development**: Responsive, SEO-friendly, and high-performance websites.
 - **Mobile Applications**: Scalable mobile solutions for iOS and Android.
 - **Digital Marketing**: SEO, SMM, and PPC to enhance your brand's visibility.
 - **Cloud Solutions**: Robust, secure, and scalable cloud-based services.
   
-For more details about our services, please visit our website: [Amortree Tech](https://amortree.com/)
+For more details about our services, please visit our website: [amortree Tech](https://amortree.com/)
 
-## Social Media
+## amortree Tech 🌐 Social Media
 
 Follow us on our social media platforms to stay updated with our latest news, projects, and updates:
 
@@ -27,11 +27,13 @@ Follow us on our social media platforms to stay updated with our latest news, pr
 - [Facebook](https://facebook.com/amortreetech)
 - [Instagram](https://instagram.com/amortreetech)
 
-## Contact Us
+## Contact amortree Tech
 
 If you have any questions or need further information, feel free to reach out to us via our website [Amortree Tech](https://amortree.com/contact) or through any of our social media channels.
 
-## 🌐 Socials:
+
+
+## My 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/dineshwdesign) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/darkdvdsn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dineshdesign/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/dineshdesign) 
 
 # 💻 Tech Stack:
