@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm a founder of [amortree Tech Pvt. Ltd.](https://amortree.com/) and I'm a UI/UX Designer & Front-End Developer from Bengaluru, India.<br>With experience in HTML5, CSS, SASS, and JavaScript, I love bringing ideas to life with clean, user-friendly designs. I started out as a Web Designer and have worked on all kinds of cool projects since. Now, as a Front-End Developer, I’m passionate about coding up new experiences and always looking for ways to make the web more exciting.<br><br>Let’s build something awesome together! 🚀
+I'm a UI/UX Designer & Front-End Developer from Bengaluru, India.<br>With experience in HTML5, CSS, SASS, and JavaScript, I love bringing ideas to life with clean, user-friendly designs. I started out as a Web Designer and have worked on all kinds of cool projects since. Now, as a Front-End Developer, I’m passionate about coding up new experiences and always looking for ways to make the web more exciting.<br><br>Let’s build something awesome together! 🚀
 
 - 🔭 I’m currently working as a UI/UX Designer & Front-End Developer
 - 🌱 I’m currently learning VueJS & Digital Marketing
@@ -13,7 +13,7 @@ I'm a founder of [amortree Tech Pvt. Ltd.](https://amortree.com/) and I'm a UI/U
 [![](https://visitcount.itsvg.in/api?id=dineshann&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
 
-# 💫 Founder of amortree Tech Pvt. Ltd. 💫 
+# 💫 Founder of amortree Tech 💫 
 
 Welcome to **amortree Tech**! We are a technology-driven company providing innovative solutions to businesses looking to grow and thrive in today’s fast-paced digital landscape. Our expertise lies in web development, mobile applications, digital marketing, and cloud solutions, aimed at empowering businesses with cutting-edge technology.
 
