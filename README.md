@@ -4,6 +4,10 @@
 
 Reach me -- dineshwbd@gmail.com
 
+---
+[![](https://visitcount.itsvg.in/api?id=dineshann&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 # 💫 Founder of amortree Tech Pvt. Ltd. 💫 
 
 Welcome to **amortree Tech**! We are a technology-driven company providing innovative solutions to businesses looking to grow and thrive in today’s fast-paced digital landscape. Our expertise lies in web development, mobile applications, digital marketing, and cloud solutions, aimed at empowering businesses with cutting-edge technology.
@@ -28,7 +32,4 @@ At amortree Tech, we believe in crafting tailor-made solutions that fit your bus
 
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dineshann&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
-
----
-[![](https://visitcount.itsvg.in/api?id=dineshann&icon=0&color=0)](https://visitcount.itsvg.in)
 
