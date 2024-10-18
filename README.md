@@ -1,6 +1,8 @@
 # 💫 About Me:
+
 Hey there! 👋 I'm a founder of [amortree Tech Pvt. Ltd.](https://amortree.com/) and I'm a UI/UX Designer & Front-End Developer from Bangalore, India.<br>With experience in HTML5, CSS, Sass, and jQuery, I love bringing ideas to life with clean, user-friendly designs. I started out as a Web Designer and have worked on all kinds of cool projects since. Now, as a Front-End Developer, I’m passionate about coding up new experiences and always looking for ways to make the web more exciting.<br><br>Let’s build something awesome together! 🚀
 
+Reach me -- dineshwbd@gmail.com
 
 # Founder of amortree Tech Pvt. Ltd.
 
