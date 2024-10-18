@@ -10,7 +10,7 @@ I'm a founder of [amortree Tech Pvt. Ltd.](https://amortree.com/) and I'm a UI/U
 - 📫 Reach me -- dineshwbd@gmail.com
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dineshann&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dineshann&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
 
 # 💫 Founder of amortree Tech Pvt. Ltd. 💫 
