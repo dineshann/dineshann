@@ -13,14 +13,6 @@ I'm a UI/UX Designer & Front-End Developer from Bengaluru, India.<br>With experi
 [![](https://visitcount.itsvg.in/api?id=dineshann&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
 
-# 💫 Founder of amortree Tech 💫 
-
-Welcome to **amortree Tech**! We are a technology-driven company providing innovative solutions to businesses looking to grow and thrive in today’s fast-paced digital landscape. Our expertise lies in web development, mobile applications, digital marketing, and cloud solutions, aimed at empowering businesses with cutting-edge technology.
-
-## About amortree Tech
-
-At amortree Tech, we believe in crafting tailor-made solutions that fit your business needs. Our team of experts collaborates closely with clients to deliver custom software, scalable applications, and digital strategies that drive success.
-
 
 ## My 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/dineshwdesign) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/dineshdesign) 
