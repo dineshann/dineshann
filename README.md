@@ -9,7 +9,7 @@
 🎯 Helping businesses create scalable, high-performance web solutions  
 
 🔧 **Skills & Technologies**:  
-💻 **Front-end**: HTML, CSS, Sass, JavaScript, Vue.js, Bootstrap, jQuery  
+💻 **Front-end**: HTML, CSS, Sass, JavaScript, Vue.js, .Net Core, Bootstrap  
 🎨 **UI/UX**: Wireframing, Prototyping, User Research, Figma, Adobe XD  
 ⚙️ **Development & Tools**: Git, Web Performance Optimization, Digital Strategy  
 
