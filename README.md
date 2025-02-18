@@ -1,12 +1,22 @@
-# Hey there! 👋
+# Hey, I'm Dinesh 👋
+🚀 **Founder & CEO | UI/UX Strategist | Front-end Innovator** 
 
-I'm a UI/UX Designer & Front-End Developer from Bengaluru, India.<br>With experience in HTML5, CSS, SASS, and JavaScript, I love bringing ideas to life with clean, user-friendly designs. I started out as a Web Designer and have worked on all kinds of cool projects since. Now, as a Front-End Developer, I’m passionate about coding up new experiences and always looking for ways to make the web more exciting.<br><br>Let’s build something awesome together! 🚀
+🚀 **Building digital experiences for over a decade**
+🔹 **Founder & CEO at [Amortree Tech](https://www.amortree.com)** – UI/UX, Web Development, and Digital Consulting
+💻 Passionate about **building intuitive interfaces, optimizing user experiences, and developing modern web applications**.  
+📈 Focused on **business growth, innovation, and digital transformation strategies**.
+💡 Passionate about design, development, and innovation
+ 🎯 Helping businesses create scalable, high-performance web solutions
 
-- 🔭 I’m currently working as a UI/UX Designer & Front-End Developer
-- 🌱 I’m currently learning VueJS & Digital Marketing
+🔧 **Skills & Technologies**:
+💻 **Front-end**: HTML, CSS, Sass, JavaScript, Vue.js, Bootstrap, jQuery
+🎨 **UI/UX**: Wireframing, Prototyping, User Research, Figma, Adobe XD
+⚙️ **Development & Tools**: Git, Web Performance Optimization, Digital Strategy
+
+- 🌱 I’m currently learning **Blendar, Advance JavaScript, MySQL & Digital Marketing**
 - 👯 I'm looikng to collaborate with teams trying to transform their apps in terms of technology stack
 - 🤔 I'm looking for help with experienced team
-- 💬 Ask me about UI/UX Design and Web Technologies
+- 💬 Ask me about **UI/UX Design and Web Technologies**
 - 📫 Reach me -- dineshwbd@gmail.com
 
 ---
