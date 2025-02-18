@@ -1,17 +1,17 @@
 # Hey, I'm Dinesh 👋
 🚀 **Founder & CEO | UI/UX Strategist | Front-end Innovator** 
 
-🚀 **Building digital experiences for over a decade**
-🔹 **Founder & CEO at [Amortree Tech](https://www.amortree.com)** – UI/UX, Web Development, and Digital Consulting
-💻 Passionate about **building intuitive interfaces, optimizing user experiences, and developing modern web applications**.  
-📈 Focused on **business growth, innovation, and digital transformation strategies**.
-💡 Passionate about design, development, and innovation
- 🎯 Helping businesses create scalable, high-performance web solutions
+- 🚀 **Building digital experiences for over a decade**
+- 🔹 **Founder & CEO at [Amortree Tech](https://www.amortree.com)** – UI/UX, Web Development, and Digital Consulting
+- 💻 Passionate about **building intuitive interfaces, optimizing user experiences, and developing modern web applications**.  
+- 📈 Focused on **business growth, innovation, and digital transformation strategies**.
+- 💡 Passionate about design, development, and innovation
+- 🎯 Helping businesses create scalable, high-performance web solutions
 
-🔧 **Skills & Technologies**:
-💻 **Front-end**: HTML, CSS, Sass, JavaScript, Vue.js, Bootstrap, jQuery
-🎨 **UI/UX**: Wireframing, Prototyping, User Research, Figma, Adobe XD
-⚙️ **Development & Tools**: Git, Web Performance Optimization, Digital Strategy
+- 🔧 **Skills & Technologies**:
+- 💻 **Front-end**: HTML, CSS, Sass, JavaScript, Vue.js, Bootstrap, jQuery
+- 🎨 **UI/UX**: Wireframing, Prototyping, User Research, Figma, Adobe XD
+- ⚙️ **Development & Tools**: Git, Web Performance Optimization, Digital Strategy
 
 - 🌱 I’m currently learning **Blendar, Advance JavaScript, MySQL & Digital Marketing**
 - 👯 I'm looikng to collaborate with teams trying to transform their apps in terms of technology stack
