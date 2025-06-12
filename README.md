@@ -15,11 +15,12 @@
 🎨 **UI/UX**: Wireframing, Prototyping, User Research, Figma, Adobe XD  
 ⚙️ **Development & Tools**: Git, Web Performance Optimization, Digital Strategy  
 
-- 🌱 I’m currently learning **Blendar, Advance JavaScript, MySQL & Digital Marketing**
-- 👯 I'm looikng to collaborate with teams trying to transform their apps in terms of technology stack
-- 🤔 I'm looking for help with experienced team
-- 💬 Ask me about **UI/UX Design and Web Technologies**
-- 📫 Reach me -- hi@amortree.com
+
+🌱 I’m currently learning **Blendar, Advance JavaScript, MySQL & Digital Marketing**
+👯 I'm looikng to collaborate with teams trying to transform their apps in terms of technology stack
+🤔 I'm looking for help with experienced team
+💬 Ask me about **UI/UX Design and Web Technologies**
+📫 Reach me -- hi@amortree.com
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dineshann&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
