@@ -19,7 +19,7 @@
 - 👯 I'm looikng to collaborate with teams trying to transform their apps in terms of technology stack
 - 🤔 I'm looking for help with experienced team
 - 💬 Ask me about **UI/UX Design and Web Technologies**
-- 📫 Reach me -- dineshwbd@gmail.com
+- 📫 Reach me -- hi@amortree.com
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dineshann&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
